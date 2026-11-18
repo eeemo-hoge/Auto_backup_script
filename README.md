@@ -21,3 +21,4 @@ Please refer the [LICENSE](https://github.com/eeemo-hoge/Auto_backup_script/LICE
 
 
 [description](LICENSE)
+license is "[LICENSE](LICENSE)"
