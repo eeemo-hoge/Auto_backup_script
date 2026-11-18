@@ -4,7 +4,7 @@ A simple project for backing up data to multiple hard drives. It was originally
 created for personal use and is shared here in the hope that it may be useful
 to others.
 
-## how to use ??
+## How to use ??
 1. you should do PATH problem.
 2. solve permission problem. (chmod 755 or etc.)
 3. re-write the backup location directory where you want.
@@ -13,7 +13,7 @@ to others.
 5. and run "backup.all" by sudo then, scripts let you backup to your hard disk drives multiple.
 6. "backup.all --dry-run" is dry run btw.
 
-## this is how it works
+## This will show how it works
 ![description](https://github.com/eeemo-hoge/Auto_backup_script/tree/main/images/backup_script_image.png)
 
 ## LISCENSE 
