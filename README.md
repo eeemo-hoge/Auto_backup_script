@@ -17,4 +17,5 @@ to others.
 ![description](https://github.com/eeemo-hoge/Auto_backup_script/tree/main/images/backup_script_image.png)
 
 ## LISCENSE 
-please refer the LISCENCE. i use MIT or GNU. 
+Please refer the [LICENSE](https://github.com/eeemo-hoge/Auto_backup_script/LICENSE)
+
