@@ -6,12 +6,12 @@ to others.
 
 ## how to use ??
 1. you should do PATH problem.
-2. solve permission problem.
-3. re-write the backup location directory where you want. 
-you should re-write "backup.sh" "backup2.sh" "backup3.sh" respectively.
-4. just in case or, as your preference, re-write "backup-all.sh" "backup-common.sh" as well.
-5. and run "backup.all" by sudo then, script let you backup to your hdds multiple.
-6. "backup.all --dry-run" is dry run.
+2. solve permission problem. (chmod 755 or etc.)
+3. re-write the backup location directory where you want.
+ the about to re-define location is, you should re-write end of the line of "backup.sh" "backup2.sh" "backup3.sh" respectively.
+4. just in case or, as your preference, re-write "backup-all.sh" "backup-common.sh" as well to, what scripts files you run or etc.
+5. and run "backup.all" by sudo then, scripts let you backup to your hard disk drives multiple.
+6. "backup.all --dry-run" is dry run btw.
 
 ## LISCENSE 
 please refer the LISCENCE. i use MIT or GNU. 
