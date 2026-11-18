@@ -13,5 +13,8 @@ to others.
 5. and run "backup.all" by sudo then, scripts let you backup to your hard disk drives multiple.
 6. "backup.all --dry-run" is dry run btw.
 
+## this is how it works
+![description](https://github.com/eeemo-hoge/Auto_backup_script/tree/main/images/backup_script_image.png)
+
 ## LISCENSE 
 please refer the LISCENCE. i use MIT or GNU. 
