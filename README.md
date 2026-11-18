@@ -17,8 +17,6 @@ to others.
 ![description](https://github.com/eeemo-hoge/Auto_backup_script/tree/main/images/backup_script_image.png)
 
 ## LISCENSE 
-Please refer the [LICENSE](https://github.com/eeemo-hoge/Auto_backup_script/LICENSE)
 
 
-[description](LICENSE)
 license is "[LICENSE](LICENSE)"
