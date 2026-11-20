@@ -5,7 +5,7 @@ created for personal use and is shared here in the hope that it may be useful
 to others.
 
 ## How to use ??
-1. you should do PATH problem.
+1. you should do PATH problem. if your directory structure is like, /usr/lccal/bin/backup/ then, write ".bashrc" to, "alias backup-all='sudo bash /usr/local/bin/backup/backup-all.sh'" and "source ~/.bashrc"
 2. solve permission problem. (chmod 755 or etc.)
 3. re-write the backup location directory where you want. you should re-write end of the line of "backup.sh" "backup2.sh" "backup3.sh" respectively.
 4. just in case or, as your preference, re-write "backup-all.sh" "backup-common.sh" as well to, what scripts files you run or etc.
