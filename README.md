@@ -4,7 +4,7 @@ A simple project for backing up data to multiple hard drives. It was originally
 created for personal use and is shared here in the hope that it may be useful
 to others.
 
-## How to use ??
+## How to use 
 1. PATH. if your directory structure is like, /usr/lccal/bin/backup/ then, write ".bashrc" to, "alias backup-all='sudo bash /usr/local/bin/backup/backup-all.sh'" and type "source ~/.bashrc"
 2. solve permission problem. (chmod 755 or etc.)
 3. re-write the backup location directory where you want. you should re-write end of the line of "backup.sh" "backup2.sh" "backup3.sh" respectively.
